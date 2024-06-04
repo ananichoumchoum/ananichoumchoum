@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananichoumchoum&label=Profile%20views&color=0e75b6&style=flat" alt="ananichoumchoum" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananichoumchoum" alt="ananichoumchoum" /></a> </p>
-
 - 🔭 I’m currently working on [poke-api](https://github.com/ananichoumchoum/Poke-API)
 
 
