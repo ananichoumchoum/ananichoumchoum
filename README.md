@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anne</h1>
-<h3 align="center">A passionate programmer with a background in AI software development</h3>
+<h3 align="center">A passionate programmer with a background in AI software development and Security</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananichoumchoum&label=Profile%20views&color=0e75b6&style=flat" alt="ananichoumchoum" />
@@ -38,7 +38,7 @@
 
 <h3 align="left">💻 Projects:</h3>
 <ul>
-  <li>🔭 <a href="https://github.com/ananichoumchoum/Poke-API" target="_blank">Poke-API</a>: Javascript API project. Work in progress</li>
+  <li>🔭 <a href="https://github.com/ananichoumchoum/Vuln" target="_blank">Vuln</a>: Best Practices Code Scanner. I am trying to combine different tools to scan python project and help promote security and programming best practices. Work in progress</li>
   <li>🛡️ <a href="https://github.com/ananichoumchoum/code-secure" target="_blank">CyberSecurity Challenge</a>: A private project, React web-based game integrating Capture The Flag (CTF) concepts with educational challenges on secure coding practices. Please contact me for accessing this repo</li>
   <li>📱 <a href="https://github.com/ananichoumchoum/DirectMedical" target="_blank">Doctor Billing App</a>: A React Native app for managing doctors' billing and hours, including document upload and review features.</li>
   <li>📝 <a href="https://github.com/ananichoumchoum/note-maker" target="_blank">OCR Notes</a>: A React backend project that converts images to text using OCR, saving the text as notes for easy retrieval and management.</li>
