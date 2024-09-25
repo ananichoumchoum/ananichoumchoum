@@ -38,7 +38,7 @@
 
 <h3 align="left">💻 Projects:</h3>
 <ul>
-  <li>🔭 <a href="https://github.com/ananichoumchoum/Vuln" target="_blank">Vuln</a>: Best Practices Code Scanner. I am trying to combine different tools to scan python projects and help promote security and programming best practices. Work in progress</li>
+  <li>🔭 <a href="https://github.com/ananichoumchoum/Vuln" target="_blank">Vuln</a>: Best Practices Code Scanner. I am trying to combine different tools to scan python projects and help promote security and programming best practices. Work in progress to add more programming languages</li>
   <li>🛡️ <a href="https://github.com/ananichoumchoum/code-secure" target="_blank">CyberSecurity Challenge</a>: A private project, React web-based game integrating Capture The Flag (CTF) concepts with educational challenges on secure coding practices. Please contact me for accessing this repo</li>
   <li>📱 <a href="https://github.com/ananichoumchoum/DirectMedical" target="_blank">Doctor Billing App</a>: A React Native app for managing doctors' billing and hours, including document upload and review features.</li>
   <li>📝 <a href="https://github.com/ananichoumchoum/note-maker" target="_blank">OCR Notes</a>: A React backend project that converts images to text using OCR, saving the text as notes for easy retrieval and management.</li>
