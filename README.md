@@ -50,8 +50,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananichoumchoum&theme=dark" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">👨‍💻 About Me:</h3>
-<p align="left">
-  I'm a dedicated programmer with a passion for creating innovative solutions in AI and cybersecurity. I enjoy working on projects that challenge my skills and expand my knowledge. Contact me for a collab (: 
-</p>
-
