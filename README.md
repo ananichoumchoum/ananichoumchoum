@@ -55,9 +55,3 @@
   I'm a dedicated programmer with a passion for creating innovative solutions in AI and cybersecurity. I enjoy working on projects that challenge my skills and expand my knowledge. Contact me for a collab (: 
 </p>
 
-<h3 align="left">📫 Contact Me:</h3>
-<p align="left">
-  <a href="mailto:la.annesmith@gmail.com">Email</a> •
-  <a href="https://www.softwearpink.com" target="_blank">Portfolio</a> •
-  <a href="https://tech-awareness.softwearpink.com" target="_blank">Capstone</a>
-</p>
